@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious student starting my j
 - 📚 Studying **Mathematics with Data Science** at LSE
 - 🧠 Learning core concepts in **machine learning**, **AI**, and **statistical modeling**
 - 💻 Practicing Python, R, and exploring tools like, pandas, plotly and scikit-learn
-- 📈 Exploring the intersection of **finance / fitness** and **data science**
+- 📈 Exploring the intersection of **finance** and **data science**
 
 ---
 
